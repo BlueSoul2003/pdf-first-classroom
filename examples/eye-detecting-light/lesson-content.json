@@ -1,0 +1,291 @@
+{
+  "id": "1.2-04",
+  "section": "1.2",
+  "title": {
+    "en": "Eye: detecting light",
+    "zh": "眼睛：感光",
+    "ms": "Mata: mengesan cahaya"
+  },
+  "standards": [
+    "1.2.1"
+  ],
+  "blocks": [
+    {
+      "title": {
+        "en": "Retina + optic nerve",
+        "zh": "视网膜与视神经",
+        "ms": "Retina + saraf optik"
+      },
+      "text": {
+        "en": "The retina produces nerve impulses. The ___ carries them to the brain.",
+        "zh": "视网膜产生神经冲动。___把冲动传到脑。",
+        "ms": "Retina menghasilkan impuls saraf. ___ membawanya ke otak."
+      },
+      "answer": {
+        "en": "optic nerve",
+        "zh": "视神经",
+        "ms": "Saraf optik"
+      }
+    },
+    {
+      "title": {
+        "en": "Yellow spot + blind spot",
+        "zh": "黄斑与盲点",
+        "ms": "Bintik kuning + bintik buta"
+      },
+      "text": {
+        "en": "The yellow spot gives sharp vision. The blind spot has no photoreceptors.",
+        "zh": "黄斑提供清晰视觉。盲点没有感光细胞。",
+        "ms": "Bintik kuning memberikan penglihatan tajam. Bintik buta tidak mempunyai fotoreseptor."
+      },
+      "answer": {
+        "en": "",
+        "zh": "",
+        "ms": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Rods",
+        "zh": "杆细胞",
+        "ms": "Sel rod"
+      },
+      "text": {
+        "en": "Rod cells help us see in ___ light. They do not distinguish colours.",
+        "zh": "杆细胞帮助我们在___光下看见物体。它们不分辨颜色。",
+        "ms": "Sel rod membantu kita melihat dalam cahaya ___. Sel ini tidak membezakan warna."
+      },
+      "answer": {
+        "en": "dim",
+        "zh": "微弱",
+        "ms": "malap"
+      }
+    },
+    {
+      "title": {
+        "en": "Cones",
+        "zh": "锥细胞",
+        "ms": "Sel kon"
+      },
+      "text": {
+        "en": "Cone cells support colour vision in bright light. Three types respond best to different ranges of colour.",
+        "zh": "锥细胞在明亮环境下提供色觉。三种类型对不同色光范围最敏感。",
+        "ms": "Sel kon membolehkan penglihatan warna dalam cahaya terang. Tiga jenisnya paling peka terhadap julat warna yang berbeza."
+      },
+      "answer": {
+        "en": "",
+        "zh": "",
+        "ms": ""
+      }
+    }
+  ],
+  "figure": "eye-cutaway.png",
+  "figureAlt": {
+    "en": "Realistic anatomical cutaway of the eye",
+    "zh": "眼睛写实解剖剖面图",
+    "ms": "Keratan anatomi realistik mata"
+  },
+  "quiz": {
+    "question": {
+      "en": "Why is a coloured shirt harder to identify in dim light?",
+      "zh": "为甚么在暗处较难辨认衣服的颜色？",
+      "ms": "Mengapakah warna baju lebih sukar dikenal pasti dalam cahaya malap?"
+    },
+    "options": [
+      {
+        "en": "Rods detect dim light but not colour.",
+        "zh": "杆细胞感应微光，但不分辨颜色。",
+        "ms": "Sel rod mengesan cahaya malap tetapi bukan warna."
+      },
+      {
+        "en": "The iris produces colours.",
+        "zh": "虹膜产生颜色。",
+        "ms": "Iris menghasilkan warna."
+      },
+      {
+        "en": "The blind spot becomes the whole retina.",
+        "zh": "整个视网膜变成盲点。",
+        "ms": "Bintik buta menjadi seluruh retina."
+      },
+      {
+        "en": "Cones become more sensitive than rods in dim light.",
+        "zh": "在弱光下，视锥细胞比视杆细胞更敏感。",
+        "ms": "Sel kon menjadi lebih peka daripada sel rod dalam cahaya malap."
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Cones need brighter light for effective colour vision.",
+      "zh": "锥细胞需要较明亮的光才能有效分辨颜色。",
+      "ms": "Sel kon memerlukan cahaya yang lebih terang untuk penglihatan warna yang berkesan."
+    }
+  },
+  "activity": null,
+  "video": null,
+  "anatomyLabels": [
+    {
+      "number": 9,
+      "side": "right",
+      "y": 150,
+      "target": [
+        663.3333333333333,
+        225.0
+      ],
+      "label": {
+        "en": "Retina",
+        "zh": "视网膜",
+        "ms": "Retina"
+      }
+    },
+    {
+      "number": 10,
+      "side": "right",
+      "y": 280,
+      "target": [
+        651.6666666666667,
+        291.66666666666663
+      ],
+      "label": {
+        "en": "Yellow spot",
+        "zh": "黄斑",
+        "ms": "Bintik kuning"
+      }
+    },
+    {
+      "number": 11,
+      "side": "right",
+      "y": 410,
+      "target": [
+        642.5,
+        393.75
+      ],
+      "label": {
+        "en": "Blind spot",
+        "zh": "盲点",
+        "ms": "Bintik buta"
+      }
+    },
+    {
+      "number": 12,
+      "side": "right",
+      "y": 540,
+      "target": [
+        717.5,
+        433.3333333333333
+      ],
+      "label": {
+        "en": "Optic nerve",
+        "zh": "视神经",
+        "ms": "Saraf optik"
+      }
+    }
+  ],
+  "extraPractice": [
+    {
+      "question": {
+        "en": "Which retinal cells detect colour?",
+        "zh": "哪种视网膜细胞感受颜色？",
+        "ms": "Sel retina manakah mengesan warna?"
+      },
+      "options": [
+        {
+          "en": "Rod cells",
+          "zh": "视杆细胞",
+          "ms": "Sel rod"
+        },
+        {
+          "en": "Cone cells",
+          "zh": "视锥细胞",
+          "ms": "Sel kon"
+        },
+        {
+          "en": "Nerve fibres",
+          "zh": "神经纤维",
+          "ms": "Gentian saraf"
+        },
+        {
+          "en": "Iris muscles",
+          "zh": "虹膜肌肉",
+          "ms": "Otot iris"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "question": {
+        "en": "Why does light falling on the blind spot produce no image signal?",
+        "zh": "为什么光落在盲点上时不产生视觉讯号？",
+        "ms": "Mengapakah cahaya pada bintik buta tidak menghasilkan isyarat imej?"
+      },
+      "options": [
+        {
+          "en": "The lens is opaque.",
+          "zh": "晶状体不透明。",
+          "ms": "Kanta legap."
+        },
+        {
+          "en": "The pupil closes.",
+          "zh": "瞳孔闭合。",
+          "ms": "Pupil tertutup."
+        },
+        {
+          "en": "It has no photoreceptors.",
+          "zh": "那里没有感光细胞。",
+          "ms": "Tiada fotoreseptor di situ."
+        },
+        {
+          "en": "The cornea absorbs all light.",
+          "zh": "角膜吸收全部光线。",
+          "ms": "Kornea menyerap semua cahaya."
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "question": {
+        "en": "Which retinal region gives the sharpest vision?",
+        "zh": "视网膜哪个区域提供最清晰的视觉？",
+        "ms": "Kawasan retina manakah memberikan penglihatan paling tajam?"
+      },
+      "options": [
+        {
+          "en": "Yellow spot",
+          "zh": "黄斑",
+          "ms": "Bintik kuning"
+        },
+        {
+          "en": "Blind spot",
+          "zh": "盲点",
+          "ms": "Bintik buta"
+        },
+        {
+          "en": "Optic nerve",
+          "zh": "视神经",
+          "ms": "Saraf optik"
+        },
+        {
+          "en": "Choroid",
+          "zh": "脉络膜",
+          "ms": "Koroid"
+        }
+      ],
+      "correct": 0
+    }
+  ],
+  "textbookPages": "12–13",
+  "figureCoordinateSystem": {
+    "width": 1000,
+    "height": 700,
+    "image": {
+      "x": 180,
+      "y": 100,
+      "width": 640,
+      "height": 426.6666666666667
+    }
+  },
+  "figureProvenance": {
+    "origin": "AI-generated classroom illustration",
+    "labelReview": "Labels placed separately and checked against anatomical reference diagrams",
+    "reference": "https://www.nei.nih.gov/eye-health-information/healthy-vision/nei-for-kids/about-eye"
+  }
+}

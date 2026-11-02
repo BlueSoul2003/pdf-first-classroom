@@ -1,0 +1,4 @@
+interface:
+  display_name: "PDF First Classroom"
+  short_description: "Create syllabus notes and smooth PDF-first classrooms"
+  default_prompt: "Use $pdf-first-classroom to make this chapter into student notes, teacher answers, and a high-resolution keyboard-controlled classroom."

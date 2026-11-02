@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+.env
+.env.*
+.codex-tmp/
+test-results/
+playwright-report/
+/classroom.html
+/dist/
+/.DS_Store

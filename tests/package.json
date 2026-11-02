@@ -1,0 +1,6 @@
+{
+  "name": "pdf-first-classroom-tests",
+  "private": true,
+  "scripts": {"test": "node browser.cjs"},
+  "devDependencies": {"playwright": "1.61.1"}
+}
